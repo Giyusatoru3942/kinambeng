@@ -17,22 +17,19 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100087372638705",
-    "100081792057607",
-    "100029573642160",
-    "61562091500469"
+    "61562953390569",
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Christel",
+  "OWNER": "Gab Yu",
   "AGE": "20",
-  "GENDER": "FEMALE",
-  "nickNameBot": "Wooferbot",
-  "FACEBOOK": "https://web.facebook.com/profile.php?id=100087372638705",
-  "prefix": "!",
+  "GENDER": "MALE",
+  "nickNameBot": "Giyu",
+  "FACEBOOK": "https://web.facebook.com/100079114908948",
+  "prefix": "/",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
